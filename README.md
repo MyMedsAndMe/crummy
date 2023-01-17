@@ -1,5 +1,13 @@
-# Crummy
+# crummy
 
+Crummy is a simple and tasty way to add breadcrumbs to your Rails applications.
+
+# Reason for fork
+
+It addresses the issue regarding frozen hash and rails upgrade https://github.com/zachinglis/crummy/issues/71
+
+
+# Oficial readme
 [![Gem Version](https://badge.fury.io/rb/crummy.png)](http://badge.fury.io/rb/crummy)
 [![Build Status](https://secure.travis-ci.org/zachinglis/crummy.png)](http://travis-ci.org/zachinglis/crummy)
 [![Code Climate](https://codeclimate.com/badge.png)](https://codeclimate.com/github/zachinglis/crummy)
